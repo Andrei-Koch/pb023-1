@@ -2,7 +2,7 @@ print('Hello')
 
 
 def check_info():
-    print('11111')
+    print('111')
 
 
 def new_info():
